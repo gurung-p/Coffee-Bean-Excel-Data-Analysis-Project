@@ -12,7 +12,7 @@ Insights and recommendations are provided on the following key areas:
 
 An interactive Excel dashboard can be downloaded [here](data-analysis/coffee-bean-store-data-analysis.xlsx)
 
-![Image Alt]()
+![Image Alt](images/coffee-bean-store-sales-dashboard.png)
 
 ## Data Structure & Initial Checks
 
