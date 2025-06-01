@@ -86,4 +86,6 @@ Based on the uncovered insights, the following recommendations have been provide
 
 ## Assumptions and Caveats
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
+- The collected data is complete and correct.
 - According to the dataset, sales data for 2022 is available only until August. Therefore, it has been assumed that the business year remains in progress.
+- Factors outside the dataset, like economic shifts or policy changes, could affect outcomes.
