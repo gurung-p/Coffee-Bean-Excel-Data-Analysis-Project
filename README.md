@@ -95,5 +95,5 @@ Throughout the analysis, multiple assumptions were made to manage challenges wit
 Here are the references that contributed to the completion of this project.
 
 - [DataCamp](https://www.datacamp.com/) DataCamp offers interactive R, Python, Sheets, SQL and shell courses. All on topics in data science, statistics and machine learning. 
-- [Mo Chen](https://www.youtube.com/@mo-chen)  A data analytics manager / content creator who makes videos about how you can stay competitive and ahead of the competition in the data industry.
+- [Mo Chen](https://www.youtube.com/@mo-chen)  A Data Analytics Manager / Content Creator who makes videos about how you can stay competitive and ahead of the competition in the data industry.
 
