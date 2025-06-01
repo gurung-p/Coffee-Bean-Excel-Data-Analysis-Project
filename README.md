@@ -76,4 +76,4 @@ Based on the uncovered insights, the following recommendations have been provide
 - **Dynamic Pricing**: Implement dynamic pricing based on sales performance to maximize profit margins.
 - **Focus on Popular Sizes**: Maintaining adequate stock and promotional strategies for the most popular product size (0.5 kg) can maximize sales and customer satisfaction.
 - **Customer Engagement & Loyalty Program**: Use customer data to curate personalized marketing strategies. Given the reliance on specific top customers, consider introducing targeted loyalty programs.
-- **Data-Driven Decision Making**: Regularly conduct in-depth analyses to inform future strategies and investments.
+- **Data-Driven Decision Making**: Regularly conduct in-depth analysis to inform future strategies and investments.
