@@ -26,5 +26,14 @@ Sales distribution reveals that the United States overwhelmingly dominates sales
 
 Based on the dataset figures, year 2022 is ongoing.
 
+## Sales Trends
+
+#### Total Sales Over Time
+
+A significant fluctuation in total sales can be observed over the years. While there was growth between 2019 to 2021, there is a notable decline registered in 2022 as the year is still ongoing.
+- **2019 - 2020**: Sales declined slightly to $11,985, despite a rise in profits due to lower cost in 2020.
+- **2021**: A promising rebound in sales to $13,814 reflects a growing demand.
+- **2022**: A notable decline in total sales to $7,068, indicating on going year for the business. 
+
 ![Image Alt](images/total-sales-over-time.png)
 
