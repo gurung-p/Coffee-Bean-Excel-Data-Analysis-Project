@@ -49,8 +49,31 @@ The total number of orders gives insight into customer engagement. Orders peaked
 
 ![image alt](images/total-order-by-year.png)
 
-#### 3. Sales by Country
+#### Sales by Country
 
 Sales distribution reveals that the United States overwhelmingly dominates sales figures, accounting for $35,476. Other countries such as Ireland account for $6,719 and the United Kingdom for $2,802 following with much lower figures. This insight indicates the potential for expansion into other markets and countries.
 
+#### Product
 
+Excelsa is the top selling coffee beans, followed by Liberica, Arabica and Robusta. With regards to category, light is highly preferred by the customers, followed by medium and dark. 
+The highest sales recorded was **$4,690** from the "Light Excelsa" category, while the lowest was **$2,603** from the "Light Robust" category.
+
+Most popular size is 0.5 kg with 268 orders. Whereas, least popular size is 1.0 kg with 236 orders.
+
+#### Customers & Impact of Loyalty Programs
+
+The data reveals a diverse customer base with the top customer, Terri Farra, accounting for a significant portion of sales. Targeting retention strategies could be beneficial.
+
+The peak engagement occurred in 2021, with 312 total orders. 179 orders were placed by non-loyalty card holder which is about 57%.
+There's a noticeable decline in the number of orders from cardholders in 2022 as expected
+
+## Recommendations
+
+Based on the uncovered insights, the following recommendations have been provided.
+
+**Target Promotions**: Focus on promoting high-margin coffee types particularly in countries with the highest revenue. Develop targeted marketing strategies to enhance brand visibility and boost sales in underrepresented markets.
+**Expand Market Reach**: Investigate strategies to capture market share in Ireland and the UK, where sales are currently lower.
+- **Dynamic Pricing**: Implement dynamic pricing based on sales performance to maximize profit margins.
+- **Focus on Popular Sizes**: Maintaining adequate stock and promotional strategies for the most popular product size (0.5 kg) can maximize sales and customer satisfaction.
+ **Customer Engagement & Loyalty Program**: Use customer data to curate personalized marketing strategies. Given the reliance on specific top customers, consider introducing targeted loyalty programs.
+**Data-Driven Decision Making**: Regularly conduct in-depth analyses to inform future strategies and investments.
