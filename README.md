@@ -12,6 +12,8 @@ Insights and recommendations are provided on the following key areas:
 
 An interactive Excel dashboard can be downloaded [here](data-analysis/coffee-bean-store-data-analysis.xlsx)
 
+![Image Alt]()
+
 ## Data Structure & Initial Checks
 
 Coffee Bean Store’s database structure consists of three tables: Orders, Customers and Products. Prior to beginning the analysis, a variety of checks were conducted for quality control. The data was cleaned, organized, and prepared including familiarization with the datasets. 
