@@ -16,7 +16,7 @@ An interactive Excel dashboard can be downloaded [here](data-analysis/coffee-bea
 
 ## Data Structure & Initial Checks
 
-Coffee Bean Store’s database structure consists of three tables: Orders, Customers and Products. Prior to beginning the analysis, a variety of checks were conducted for quality control. The data was cleaned, organized, and prepared including familiarization with the datasets. 
+Coffee Bean Store’s database structure consists of three tables: **Orders**, **Customers** and **Products**. Prior to beginning the analysis, a variety of checks were conducted for quality control. The data was cleaned, organized, and prepared including familiarization with the datasets. 
 
 The raw dataset in Excel can be downloaded [here](datasets/coffee-bean-store-dataset.xlsx)
 
