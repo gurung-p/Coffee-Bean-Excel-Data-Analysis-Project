@@ -16,3 +16,13 @@ Coffee Bean Store’s database structure consists of three tables: Orders, Custo
 
 ![Image Alt](images/coffee-bean-store-erd.png)
 
+## Executive Summary
+
+### Overview of Findings
+
+Fluctuations in total sales can be observed over the years since the company’s inception in 2019. Between 2019 and 2021, key performance indicators have shown that, order volume increase by 5%, total sales increased from 27% to 31% and profit was 27%, 26% and 31% respectively. 
+
+Sales distribution reveals that the United States overwhelmingly dominates sales figures, accounting for $35,476. The peak engagement occurred in 2021, with 312 total orders. The highest sales recorded was $4,690 from the "Light Excelsa" category, with 0.5 kg being the most popular size among customers.
+
+Based on the dataset figures, year 2022 is ongoing.
+
