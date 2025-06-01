@@ -1,6 +1,7 @@
 # Coffee Bean Store Data Analysis
 
 ## Project Background
+
 The Coffee Bean Store, established in 2019, is an e-commerce company that sells coffee beans via its website. This report details the sales performance of Coffee Bean from 2019 to 2022, focusing on total sales, costs, profits, customer demographics, and the impact of loyalty programs. The objective is to identify trends and insights that can guide the development of future business strategies.
 
 Insights and recommendations are provided on the following key areas:
@@ -12,6 +13,7 @@ Insights and recommendations are provided on the following key areas:
 An interactive Excel dashboard can be downloaded [here](data-analysis/coffee-bean-store-data-analysis.xlsx)
 
 ## Data Structure & Initial Checks
+
 Coffee Bean Store’s database structure consists of three tables: Orders, Customers and Products. Prior to beginning the analysis, a variety of checks were conducted for quality control. The data was cleaned, organized, and prepared including familiarization with the datasets. 
 
 ![Image Alt](images/coffee-bean-store-erd.png)
@@ -38,6 +40,7 @@ A significant fluctuation in total sales can be observed over the years. While t
 ![Image Alt](images/total-sales-over-time.png)
 
 #### Total Orders by Year
+
 The total number of orders gives insight into customer engagement. Orders peaked in 2021 but as expected significantly low in 2022. 
 - **2019**: Recorded 259 orders.
 - **2020**: A decrease in orders to 263.
@@ -45,4 +48,9 @@ The total number of orders gives insight into customer engagement. Orders peaked
 - **2022**: Recorded 166 order till date and the year is incomplete. 
 
 ![image alt](images/total-order-by-year.png)
+
+#### 3. Sales by Country
+
+Sales distribution reveals that the United States overwhelmingly dominates sales figures, accounting for $35,476. Other countries such as Ireland account for $6,719 and the United Kingdom for $2,802 following with much lower figures. This insight indicates the potential for expansion into other markets and countries.
+
 
