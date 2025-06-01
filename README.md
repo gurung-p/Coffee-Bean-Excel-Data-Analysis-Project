@@ -71,7 +71,7 @@ The data reveals a diverse customer base with the top customer, Terri Farra, acc
 The peak engagement occurred in 2021, with 312 total orders. 179 orders were placed by non-loyalty card holder which is about 57%.
 There's a noticeable decline in the number of orders from cardholders in 2022 as expected
 
-![image alt]()
+![image alt](images/orders-with-loyalty-card.png)
 
 ## Recommendations
 
