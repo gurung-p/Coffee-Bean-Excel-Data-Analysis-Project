@@ -9,4 +9,4 @@ Insights and recommendations are provided on the following key areas:
 - **Loyalty Program Success:** An assessment of the loyalty program on customer retention and sales.
 - **Global Comparisons:** An evaluation of sales and orders by country and customers.
 
-An interactive Excel dashboard can be downloaded here
+An interactive Excel dashboard can be downloaded [here]()
