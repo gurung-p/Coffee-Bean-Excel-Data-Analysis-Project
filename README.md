@@ -26,3 +26,5 @@ Sales distribution reveals that the United States overwhelmingly dominates sales
 
 Based on the dataset figures, year 2022 is ongoing.
 
+![Image Alt](images/total-sales-over-time.png)
+
