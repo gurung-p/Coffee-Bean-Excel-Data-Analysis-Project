@@ -53,7 +53,7 @@ The total number of orders gives insight into customer engagement. Orders peaked
 
 Sales distribution reveals that the United States overwhelmingly dominates sales figures, accounting for $35,476. Other countries such as Ireland account for $6,719 and the United Kingdom for $2,802 following with much lower figures. This insight indicates the potential for expansion into other markets and countries.
 
-![image alt]()
+![image alt](images/sales-by-country.png)
 
 ## Product Performance
 
