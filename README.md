@@ -89,3 +89,9 @@ Throughout the analysis, multiple assumptions were made to manage challenges wit
 - The collected data is complete and correct.
 - According to the dataset, sales data for 2022 is available only until August. Therefore, it has been assumed that the business year remains in progress.
 - Factors outside the dataset, like economic shifts or policy changes, could affect outcomes.
+
+## References
+
+Below are the sources that were used to complete this project
+- [DataCamp](https://www.datacamp.com/) 
+
