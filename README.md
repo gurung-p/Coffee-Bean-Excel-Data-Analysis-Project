@@ -71,9 +71,9 @@ There's a noticeable decline in the number of orders from cardholders in 2022 as
 
 Based on the uncovered insights, the following recommendations have been provided.
 
--**Target Promotions**: Focus on promoting high-margin coffee types particularly in countries with the highest revenue. Develop targeted marketing strategies to enhance brand visibility and boost sales in underrepresented markets.
--**Expand Market Reach**: Investigate strategies to capture market share in Ireland and the UK, where sales are currently lower.
+- **Target Promotions**: Focus on promoting high-margin coffee types particularly in countries with the highest revenue. Develop targeted marketing strategies to enhance brand visibility and boost sales in underrepresented markets.
+- **Expand Market Reach**: Investigate strategies to capture market share in Ireland and the UK, where sales are currently lower.
 - **Dynamic Pricing**: Implement dynamic pricing based on sales performance to maximize profit margins.
 - **Focus on Popular Sizes**: Maintaining adequate stock and promotional strategies for the most popular product size (0.5 kg) can maximize sales and customer satisfaction.
- -**Customer Engagement & Loyalty Program**: Use customer data to curate personalized marketing strategies. Given the reliance on specific top customers, consider introducing targeted loyalty programs.
--**Data-Driven Decision Making**: Regularly conduct in-depth analyses to inform future strategies and investments.
+- **Customer Engagement & Loyalty Program**: Use customer data to curate personalized marketing strategies. Given the reliance on specific top customers, consider introducing targeted loyalty programs.
+- **Data-Driven Decision Making**: Regularly conduct in-depth analyses to inform future strategies and investments.
