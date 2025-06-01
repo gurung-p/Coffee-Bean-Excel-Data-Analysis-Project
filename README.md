@@ -30,7 +30,7 @@ Based on the dataset figures, year 2022 is ongoing.
 
 ## Sales Trends
 
-#### Total Sales Over Time
+### Total Sales Over Time
 
 A significant fluctuation in total sales can be observed over the years. While there was growth between 2019 to 2021, there is a notable decline registered in 2022 as the year is still ongoing.
 - **2019 - 2020**: Sales declined slightly to $11,985, despite a rise in profits due to lower cost in 2020.
@@ -39,7 +39,7 @@ A significant fluctuation in total sales can be observed over the years. While t
 
 ![Image Alt](images/total-sales-over-time.png)
 
-#### Total Orders by Year
+### Total Orders by Year
 
 The total number of orders gives insight into customer engagement. Orders peaked in 2021 but as expected significantly low in 2022. 
 - **2019**: Recorded 259 orders.
@@ -49,18 +49,18 @@ The total number of orders gives insight into customer engagement. Orders peaked
 
 ![image alt](images/total-order-by-year.png)
 
-#### Sales by Country
+### Sales by Country
 
 Sales distribution reveals that the United States overwhelmingly dominates sales figures, accounting for $35,476. Other countries such as Ireland account for $6,719 and the United Kingdom for $2,802 following with much lower figures. This insight indicates the potential for expansion into other markets and countries.
 
-#### Product
+## Product Performance
 
 Excelsa is the top selling coffee beans, followed by Liberica, Arabica and Robusta. With regards to category, light is highly preferred by the customers, followed by medium and dark. 
 The highest sales recorded was $4,690 from the "Light Excelsa" category, while the lowest was $2,603 from the "Light Robust" category.
 
 Most popular size is 0.5 kg with 268 orders. Whereas, least popular size is 1.0 kg with 236 orders.
 
-#### Customers & Impact of Loyalty Programs
+## Customers & Impact of Loyalty Programs
 
 The data reveals a diverse customer base with the top customer, Terri Farra, accounting for a significant portion of sales. Targeting retention strategies could be beneficial.
 
