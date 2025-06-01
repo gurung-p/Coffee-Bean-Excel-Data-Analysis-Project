@@ -53,6 +53,8 @@ The total number of orders gives insight into customer engagement. Orders peaked
 
 Sales distribution reveals that the United States overwhelmingly dominates sales figures, accounting for $35,476. Other countries such as Ireland account for $6,719 and the United Kingdom for $2,802 following with much lower figures. This insight indicates the potential for expansion into other markets and countries.
 
+![image alt]()
+
 ## Product Performance
 
 Excelsa is the top selling coffee beans, followed by Liberica, Arabica and Robusta. With regards to category, light is highly preferred by the customers, followed by medium and dark. 
@@ -60,12 +62,16 @@ The highest sales recorded was $4,690 from the "Light Excelsa" category, while t
 
 Most popular size is 0.5 kg with 268 orders. Whereas, least popular size is 1.0 kg with 236 orders.
 
+![image alt]()
+
 ## Customers & Impact of Loyalty Programs
 
 The data reveals a diverse customer base with the top customer, Terri Farra, accounting for a significant portion of sales. Targeting retention strategies could be beneficial.
 
 The peak engagement occurred in 2021, with 312 total orders. 179 orders were placed by non-loyalty card holder which is about 57%.
 There's a noticeable decline in the number of orders from cardholders in 2022 as expected
+
+![image alt]()
 
 ## Recommendations
 
