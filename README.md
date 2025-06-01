@@ -62,7 +62,7 @@ The highest sales recorded was $4,690 from the "Light Excelsa" category, while t
 
 Most popular size is 0.5 kg with 268 orders. Whereas, least popular size is 1.0 kg with 236 orders.
 
-![image alt]()
+![image alt](images/sales-by-coffee-bean-and-roast-type.png)
 
 ## Customers & Impact of Loyalty Programs
 
