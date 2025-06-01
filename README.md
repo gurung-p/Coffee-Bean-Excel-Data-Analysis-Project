@@ -44,4 +44,5 @@ The total number of orders gives insight into customer engagement. Orders peaked
 - **2021**: An increase to 312 orders, indicating rising customer trust and satisfaction.
 - **2022**: Recorded 166 order till date and the year is incomplete. 
 
+![image alt](images/total-order-by-year.png)
 
