@@ -37,3 +37,11 @@ A significant fluctuation in total sales can be observed over the years. While t
 
 ![Image Alt](images/total-sales-over-time.png)
 
+#### Total Orders by Year
+The total number of orders gives insight into customer engagement. Orders peaked in 2021 but as expected significantly low in 2022. 
+- **2019**: Recorded 259 orders.
+- **2020**: A decrease in orders to 263.
+- **2021**: An increase to 312 orders, indicating rising customer trust and satisfaction.
+- **2022**: Recorded 166 order till date and the year is incomplete. 
+
+
