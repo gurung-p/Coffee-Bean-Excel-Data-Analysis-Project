@@ -93,6 +93,6 @@ Throughout the analysis, multiple assumptions were made to manage challenges wit
 ## References 
 
 Below are the sources that were used to complete this project
-- [DataCamp](https://www.datacamp.com/)
+- [DataCamp](https://www.datacamp.com/) DataCamp offers interactive R, Python, Sheets, SQL and shell courses. All on topics in data science, statistics and machine learning. 
 - [Mo Chen](https://www.youtube.com/@mo-chen)
 
