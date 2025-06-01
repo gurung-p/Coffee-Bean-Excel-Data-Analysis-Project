@@ -61,7 +61,7 @@ Sales distribution reveals that the United States overwhelmingly dominates sales
 
 ## Product Performance
 
-Excelsa is the top selling coffee beans, followed by Liberica, Arabica and Robusta. With regards to category, light is highly preferred by the customers, followed by medium and dark. 
+Excelsa is the top selling coffee beans, followed by Liberica, Arabica and Robusta. With regards to category / roast type, light is highly preferred by the customers, followed by medium and dark. 
 The highest sales recorded was $4,690 from the "Light Excelsa" category, while the lowest was $2,603 from the "Light Robust" category.
 
 Most popular size is 0.5 kg with 268 orders. Whereas, least popular size is 1.0 kg with 236 orders.
