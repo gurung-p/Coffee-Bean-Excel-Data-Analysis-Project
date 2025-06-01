@@ -1,4 +1,4 @@
-# Coffee Bean Store Data Analysis
+# Coffee Bean Store - Data Analysis
 
 ## Project Background
 
