@@ -26,7 +26,7 @@ Fluctuations in total sales can be observed over the years since the company’s
 
 Sales distribution reveals that the United States overwhelmingly dominates sales figures, accounting for $35,476. The peak engagement occurred in 2021, with 312 total orders. The highest sales recorded was $4,690 from the "Light Excelsa" category, with 0.5 kg being the most popular size among customers.
 
-Based on the dataset figures, year 2022 is ongoing.
+Sales data for 2022 is available only until August, meaning business year remains in progress.
 
 ## Sales Trends
 
@@ -77,3 +77,7 @@ Based on the uncovered insights, the following recommendations have been provide
 - **Focus on Popular Sizes**: Maintaining adequate stock and promotional strategies for the most popular product size (0.5 kg) can maximize sales and customer satisfaction.
 - **Customer Engagement & Loyalty Program**: Use customer data to curate personalized marketing strategies. Given the reliance on specific top customers, consider introducing targeted loyalty programs.
 - **Data-Driven Decision Making**: Carry out comprehensive assessments on a routine basis to guide future planning and investment strategies.
+
+## Assumptions and Caveats
+Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
+- According to the dataset, sales data for 2022 is available only until August. Therefore, it has been assumed that the business year remains in progress.
