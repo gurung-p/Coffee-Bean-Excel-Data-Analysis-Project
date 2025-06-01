@@ -5,8 +5,8 @@ The Coffee Bean Store, established in 2019, is an e-commerce company that sells 
 
 Insights and recommendations are provided on the following key areas:
 - **Sales Trends Analysis:** Evaluation of historical sales patterns, focusing on revenue and order volume
-- Product Level Performance: An analysis of product lines, understanding their impact on sales.
-- Loyalty Program Success: An assessment of the loyalty program on customer retention and sales.
-- Global Comparisons: An evaluation of sales and orders by country and customers.
+- **Product Level Performance:** An analysis of product lines, understanding their impact on sales.
+- **Loyalty Program Success:** An assessment of the loyalty program on customer retention and sales.
+- **Global Comparisons:** An evaluation of sales and orders by country and customers.
 
-An interactive Excel dashboard can be downloaded here.
+An interactive Excel dashboard can be downloaded here
