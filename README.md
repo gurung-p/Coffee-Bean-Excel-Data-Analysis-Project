@@ -77,6 +77,8 @@ There's a noticeable decline in the number of orders from cardholders in 2022 as
 
 ![image alt](images/orders-with-loyalty-card.png)
 
+---
+
 ## Recommendations
 
 Based on the uncovered insights, the following recommendations have been provided.
@@ -88,11 +90,15 @@ Based on the uncovered insights, the following recommendations have been provide
 - **Customer Engagement & Loyalty Program**: Use customer data to curate personalized marketing strategies. Given the reliance on specific top customers, consider introducing targeted loyalty programs.
 - **Data-Driven Decision Making**: Carry out comprehensive assessments on a routine basis to guide future planning and investment strategies.
 
+---
+
 ## Assumptions and Caveats
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 - The collected data is complete and correct.
 - According to the dataset, sales data for 2022 is available only until August. Therefore, it has been assumed that the business year remains in progress.
 - Factors outside the dataset, like economic shifts or policy changes, could affect outcomes.
+
+---
 
 ## References 
 
