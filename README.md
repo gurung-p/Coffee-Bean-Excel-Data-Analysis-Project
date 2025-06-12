@@ -28,7 +28,7 @@ The raw dataset in Excel can be downloaded [here](datasets/coffee-bean-store-dat
 
 Fluctuations in total sales can be observed over the years since the company’s inception in 2019. Between **2019 and 2021**, key performance indicators have shown that, order volume increase by **5%**, total sales increased from **27%** to **31%** and profit was **27%**, **26%** and **31%** respectively. 
 
-Sales distribution reveals that the United States overwhelmingly dominates sales figures, accounting for **$35,476**. The peak customer engagement occurred in 2021, with **312** total orders. The highest sales recorded was **$4,690** from the **"Light Excelsa"++ category, with **0.5 kg** being the most popular size among customers.
+Sales distribution reveals that the United States overwhelmingly dominates sales figures, accounting for **$35,476**. The peak customer engagement occurred in 2021, with **312** total orders. The highest sales recorded was **$4,690** from the **"Light Excelsa"** category, with **0.5 kg** being the most popular size among customers.
 
 Sales data for 2022 is available only until August, meaning business year remains in progress.
 
@@ -37,34 +37,34 @@ Sales data for 2022 is available only until August, meaning business year remain
 ### Total Sales Over Time
 
 A significant fluctuation in total sales can be observed over the years. While there was growth between 2019 to 2021, there is a notable decline registered in 2022 as the business year remains in progress.
-- **2019 - 2020**: Sales declined slightly to $11,985, despite a rise in profits due to lower cost in 2020.
-- **2021**: A promising rebound in sales to $13,814 reflects a growing demand.
-- **2022**: A notable decline in total sales to $7,068, indicating business year in progress.
+- **2019 - 2020**: Sales declined slightly to **$11,985**, despite a rise in profits due to lower cost in 2020.
+- **2021**: A promising rebound in sales to **$13,814** reflects a growing demand.
+- **2022**: A notable decline in total sales to **$7,068**, indicating business year in progress.
 
 ![Image Alt](images/total-sales-over-time.png)
 
 ### Total Orders by Year
 
 The total number of orders gives insight into customer engagement. Orders peaked in 2021 but as expected significantly low in 2022. 
-- **2019**: Recorded 259 orders.
-- **2020**: A decrease in orders to 263.
-- **2021**: An increase to 312 orders, indicating rising customer trust and satisfaction.
-- **2022**: Recorded 166 order till date.
+- **2019**: Recorded **259** orders.
+- **2020**: A decrease in orders to **263**.
+- **2021**: An increase to **312** orders, indicating rising customer trust and satisfaction.
+- **2022**: Recorded **166** order till date.
 
 ![image alt](images/total-order-by-year.png)
 
 ### Sales by Country
 
-Sales distribution reveals that the United States overwhelmingly dominates sales figures, accounting for $35,476. Other countries such as Ireland account for $6,719 and the United Kingdom for $2,802 following with much lower figures. This insight indicates the potential for expansion into other markets and countries.
+Sales distribution reveals that the United States overwhelmingly dominates sales figures, accounting for **$35,476**. Other countries such as Ireland account for **$6,719** and the United Kingdom for **$2,802** following with much lower figures. This insight indicates the potential for expansion into other markets and countries.
 
 ![image alt](images/sales-by-country.png)
 
 ## Product Performance
 
 Excelsa is the top selling coffee beans, followed by Liberica, Arabica and Robusta. With regards to category / roast type, light is highly preferred by the customers, followed by medium and dark. 
-The highest sales recorded was $4,690 from the "Light Excelsa" category, while the lowest was $2,603 from the "Light Robust" category.
+The highest sales recorded was **$4,690** from the **"Light Excelsa"** category, while the lowest was **$2,603** from the **"Light Robust"** category.
 
-Most popular size is 0.5 kg with 268 orders. Whereas, least popular size is 1.0 kg with 236 orders.
+Most popular size is **0.5 kg** with **268** orders. Whereas, least popular size is **1.0 kg** with **236** orders.
 
 ![image alt](images/sales-by-coffee-bean-and-roast-type.png)
 
@@ -72,7 +72,7 @@ Most popular size is 0.5 kg with 268 orders. Whereas, least popular size is 1.0 
 
 The data reveals a diverse customer base with the top customer, Terri Farra, accounting for a significant portion of sales. Targeting retention strategies could be beneficial.
 
-The peak engagement occurred in 2021, with 312 total orders. 179 orders were placed by non-loyalty card holder which is about 57%.
+The peak engagement occurred in 2021, with **312** total orders. **179** orders were placed by non-loyalty card holder which is about **57%**.
 There's a noticeable decline in the number of orders from cardholders in 2022 as expected.
 
 ![image alt](images/orders-with-loyalty-card.png)
